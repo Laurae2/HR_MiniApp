@@ -35,7 +35,9 @@ library(rpart.plot)
 
 You can install most of them from CRAN doing the following:
 
+```r
 install.packages(c("shiny", "ggplot2", "plotly", "data.table", "DT", "qgraph", "plotly", "reshape2", "cluster", "rpart", "rpart.plot"))
+```
 
 You can install `miniUI` from GitHub using the following:
 
