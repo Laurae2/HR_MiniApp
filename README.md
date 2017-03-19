@@ -71,3 +71,7 @@ You may interrupt the App by pressing Ctrl+C.
 ![Console GIF](https://github.com/Laurae2/HR_MiniApp/blob/master/HR_Console.gif)
 
 To use the App on phone/tablet, make sure you know the IP of your computer and remain in your local Intranet. Then, you just need to replace the IP from the http to the IP of your computer. Make sure to open the Firewall if it denies permission to access.
+
+Click "Allow access":
+
+![Firewall](https://cloud.githubusercontent.com/assets/9083669/24083727/122136f0-0cdd-11e7-98ba-46241d6268f0.png)
