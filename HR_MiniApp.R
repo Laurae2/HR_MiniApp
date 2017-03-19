@@ -303,6 +303,6 @@ server <- function(input, output, session) {
   
 }
 
-# shinyApp(ui, server) # Fully fledged version
+shinyApp(ui, server, options = list(host = "0.0.0.0")) # Fully fledged version
 
-runGadget(shinyApp(ui, server), viewer = paneViewer()) # Viewer in RStudio
+# runGadget(shinyApp(ui, server), viewer = paneViewer()) # Viewer in RStudio (local only)
